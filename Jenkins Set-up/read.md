@@ -39,7 +39,19 @@ Accessing Your Instance: Once your instance is launched, you can connect to it u
 
 Configure Your Instance: After connecting to your instance, you can configure it further by installing software, setting up applications, and managing users and permissions.
 
-Terminate Your Instance: When you're done with your instance, remember to terminate it to avoid incurring unnecessary charges. You can do this from the EC2 Dashboard by selecting your instance and choosing "Instance State" > "Terminate".
+Terminate Your Instance: When you're done with your instance, remember to terminate it to avoid incurring unnecessary charges. You can do this from the EC2 Dashboard by selecting your instance and choosing "Instance State" > "Terminate". 
+
+
+
+
+we can go to  browser and take jenkins repo
+
+![Capture9](https://github.com/jyothikaraj11/Git-Practice/assets/154610655/cb5d3d0b-2398-4059-8c15-8620d5dd3eda)
+
+
+
+
+that link paste in ec2 server
 
 
 
