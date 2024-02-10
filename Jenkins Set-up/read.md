@@ -35,6 +35,18 @@ Launch Instance: Once you're satisfied with the configuration, click the "Launch
 
 Create or Select a Key Pair: If you haven't already created a key pair, AWS will prompt you to create one. This key pair is essential for securely accessing your instance.
 
+
+
+
+![Capture3](https://github.com/jyothikaraj11/Git-Practice/assets/154610655/d65b8251-0017-4b0d-9f52-30412461bd42)
+
+
+
+
+
+
+
+
 Accessing Your Instance: Once your instance is launched, you can connect to it using SSH (for Linux instances) or RDP (for Windows instances) using the key pair you selected or created.
 
 Configure Your Instance: After connecting to your instance, you can configure it further by installing software, setting up applications, and managing users and permissions.
