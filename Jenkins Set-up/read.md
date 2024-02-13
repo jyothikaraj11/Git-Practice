@@ -63,7 +63,40 @@ we can go to  browser and take jenkins repo
 
 
 
-that link paste in ec2 server
+We haveto paste That Jenkins Repo and keys Like below shown
+
+
+
+![Capture 4](https://github.com/jyothikaraj11/Git-Practice/assets/154610655/c60dfeee-97df-418a-a4e6-ec8b317b73cc)
+
+
+After completed repo installation  we haveto install Amazon epel pakeges and maily java11
+ By using this command
+
+ Amazon-linix-extras install epel,
+
+ and java11 instalation
+ Amazon-linux-extras install java -open jdk 11
+
+ ![Capture8](https://github.com/jyothikaraj11/Git-Practice/assets/154610655/18dafc72-433c-495a-b13c-feeb05aeb773)
+
+ After java instalation completed we have to install JENKINS by using YUM command
+
+ yum install jenkins
+
+ yum install git
+
+ yum install maven
+
+ after instalation completed all those tools in server we have to open jenkins in browser by using PORT NUMBER, and IP NUMBER.
+
+ Thats it Jenkins Instalation completed.
+ 
+
+ 
+
+
+
 
 
 
